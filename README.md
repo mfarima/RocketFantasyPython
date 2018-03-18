@@ -1,2 +1,0 @@
-# RocketFantasyPython
-RocketFantasyPython
